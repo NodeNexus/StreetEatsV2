@@ -1,17 +1,17 @@
-# SreetEats  
+# StreatEats  
 
-**SreetEats** is a simple and user-friendly dashboard designed to help **small street vendors** manage their **vegetable stock values** and directly connect with **suppliers**. The platform ensures fair pricing, reliable supply, and transparent communication between vendors and wholesalers.  
+**StreatEats** is a smart dashboard designed for **small street vendors** to manage their **vegetable stock values** and directly connect with **suppliers**. The platform helps vendors get fair prices, reduce dependency on middlemen, and maintain a steady supply chain.  
 
 ---
 
 ## 🚀 Features  
-- 📊 **Stock Dashboard**: View, update, and track vegetable stock in real time  
-- 💰 **Price Updates**: Get daily market rates for vegetables  
-- 🛒 **Vendor–Supplier Connection**: Place orders directly with suppliers  
-- 🔔 **Low Stock Alerts**: Automatic reminders when stock falls below set limits  
-- 📱 **Mobile-Friendly UI**: Works smoothly on smartphones for vendors on the move  
-- 🗂 **Order Management**: Track pending, confirmed, and completed orders  
-- 🌱 **Community Focused**: Specifically built for small vendors and local suppliers  
+- 📊 **Stock Dashboard**: Track and update vegetable stock in real time  
+- 💰 **Market Prices**: View daily wholesale rates of vegetables  
+- 🛒 **Direct Supplier Connection**: Place orders directly with suppliers  
+- 🔔 **Low Stock Alerts**: Notifications when stock is about to finish  
+- 📱 **Mobile-Friendly**: Works seamlessly on smartphones for easy use  
+- 🗂 **Order Management**: Manage pending, confirmed, and completed orders  
+- 🌱 **Community Focused**: Built for local vendors and suppliers  
 
 ---
 
@@ -19,15 +19,15 @@
 - **Frontend**: React / Next.js (or HTML, CSS, JS)  
 - **Backend**: Node.js + Express  
 - **Database**: MongoDB / MySQL  
-- **Authentication**: JWT-based login system  
-- **Hosting**: Render / Vercel / Netlify  
+- **Authentication**: JWT-based secure login  
+- **Hosting**: Vercel / Render / Netlify  
 
 ---
 
 ## 📦 Installation  
 Clone the repo and install dependencies:  
 ```bash
-git clone https://github.com/yourusername/sreeteats.git
-cd sreeteats
+git clone https://github.com/yourusername/streateats.git
+cd streateats
 npm install
 npm start
